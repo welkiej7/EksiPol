@@ -1,6 +1,14 @@
 # EksiPol
 Political Polarization works on EksiSozluk.com
 
+
+https://github.com/user-attachments/assets/7d8b1e6b-41be-47dd-a2de-e24d00ac1126
+
+
+https://github.com/user-attachments/assets/f0028b06-c64c-4230-8beb-228a015a561d
+
+
+
 # Polarized Network Generator
 
 In this Markdown, I'm excited to introduce the toy model generator I've developed. The generator incorporates multiple factors, aiming to reflect real-world social phenomena as the network is built. There are a few key elements to highlight. Let's begin with user spaces.
