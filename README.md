@@ -139,7 +139,7 @@ For moderate and low alignment, increase the variance to 0.9 and 0.2, respective
 This function generates a matrix \( \mathbf{U} \in \mathbb{R}^{n_{\text{users}} \times n_{\text{opinion}}} \), where the opinion values are drawn from a Beta distribution and scaled to fit within \([-1, 1]\).
 
 Let:
-- \( \alpha \) and \( \beta \) be the parameters of the Beta distribution.
+- $\( \alpha \)$ and \( \beta \) be the parameters of the Beta distribution.
 
 For each opinion dimension, generate values using:
 
