@@ -1,7 +1,7 @@
 # EksiPol
 Political Polarization works on EksiSozluk.com
 
-![Semi Polarized]("https://github.com/user-attachments/assets/f1646ffb-3e70-41e7-b125-353f235a1eb9)
+![Semi Polarized](https://github.com/user-attachments/assets/f1646ffb-3e70-41e7-b125-353f235a1eb9)
 
 ![heavy2-homphily](https://github.com/user-attachments/assets/95f3b09d-1b18-48e9-9654-b1191532eace)
 
