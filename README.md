@@ -1,9 +1,15 @@
 # EksiPol
 Political Polarization works on EksiSozluk.com
 
-![Semi Polarized](https://github.com/user-attachments/assets/f1646ffb-3e70-41e7-b125-353f235a1eb9)
 
-![heavy2-homphily](https://github.com/user-attachments/assets/95f3b09d-1b18-48e9-9654-b1191532eace)
+
+https://github.com/user-attachments/assets/79149652-202b-4033-9ecd-650b7e8da6a5
+
+
+
+https://github.com/user-attachments/assets/ae93db13-40b7-4d4b-bf38-be49797bb4e0
+
+
 
 # Polarized Network Generator
 
