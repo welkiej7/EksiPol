@@ -1,10 +1,9 @@
 # EksiPol
 Political Polarization works on EksiSozluk.com
 
-<p float="left">
-  <img src="![med-homophily](https://github.com/user-attachments/assets/19b343ce-575d-4ce1-bc4e-8762024f15c0)" width="100" />
-  <img src="![heavy2-homphily](https://github.com/user-attachments/assets/571d4dd8-8323-4f4e-8de2-77af67ab116f)" width="100" /> 
-</p>
+
+![med-homophily](https://github.com/user-attachments/assets/19b343ce-575d-4ce1-bc4e-8762024f15c0)
+![heavy2-homphily](https://github.com/user-attachments/assets/571d4dd8-8323-4f4e-8de2-77af67ab116f)
 
 
 # Polarized Network Generator
