@@ -1,5 +1,5 @@
 # EksiPol
-Political Polarization works on EksiSozluk.com. It includes two different type of scrapers and also a network modeling algorithm prepared for social phenomena.
+Political Polarization works on EksiSozluk.com. It includes two different type of scrapers and also a network modeling algorithm prepared for social phenomena. Degree distribution of the nodes can be given individually, in examples it is sampled from a uniform distribution with max casting is 10. 
 
 
 
